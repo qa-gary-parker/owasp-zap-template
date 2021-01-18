@@ -30,7 +30,7 @@ jobs:
           # GitHub Token to create issues in the repository
           token: ${{ github.token }}
           # Target URL
-          target: https://betway.com
+          target: https://www.hippodromeonline.com
           # Relative path of the ZAP configuration file
           # rules_file_name: # optional
           # The Docker file to be executed
