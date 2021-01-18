@@ -38,6 +38,6 @@ jobs:
           # Additional command line options
           # cmd_options: # optional
           # The title for the GitHub issue to be created
-          issue_title: ZAP Scan Baseline Report
+          issue_title: Dreambingo - ZAP Scan Baseline Report
           # The action status will be set to fail if ZAP identifies any alerts during the baseline scan
           # fail_action: # optional
